@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         tvDisplay = findViewById(R.id.textViewDisplay);
         btnClick = findViewById(R.id.buttonDisplay);
         etInput = findViewById(R.id.editTextInput);
-        tbtn = findViewById(R.id.toggleButton);
+        tbtn = findViewById(R.id.toggleButtonEnabled);
         rgGender = findViewById(R.id.radioGroupGender);
 
         btnClick.setOnClickListener(new View.OnClickListener() {

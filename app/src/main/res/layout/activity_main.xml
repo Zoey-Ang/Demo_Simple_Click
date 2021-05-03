@@ -64,7 +64,7 @@
     </RadioGroup>
 
     <ToggleButton
-        android:id="@+id/toggleButton"
+        android:id="@+id/toggleButtonEnabled"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:checked="true"
